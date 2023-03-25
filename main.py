@@ -1,3 +1,5 @@
+"""Premier League Guessing Game"""
+
 import random
 from players import players
 from art import logo
